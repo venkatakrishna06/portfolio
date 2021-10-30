@@ -1,0 +1,25 @@
+.education{
+    width: 90%;
+    max-width: 1200px;
+    margin: 50px auto;
+
+}
+.edx{
+    width: 90%;
+    margin: 50px auto;
+    max-width: 1200px;
+    color: #93939f;
+}
+.line{
+    content:'';
+    display: block;
+    width:50%;
+    height:0.25rem;
+    border-radius:0.1875rem;
+    background:#18babd;
+    color:#18babd;
+    margin-top: 4%;
+}
+.ttl{
+    font-size: 1.2rem;
+}
