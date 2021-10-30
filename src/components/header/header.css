@@ -86,7 +86,7 @@
         overflow: hidden;
     }
     .navbar__list--mobileShow{
-     height: 180px;
+     height: 300px;
     }
     .navbar__list--mobile li a{
      display:flex;
